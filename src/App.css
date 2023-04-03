@@ -1,0 +1,15 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.App {
+    background: #222222;
+    text-align: center;
+}
+
+.appHeader {
+    border-bottom: 1px solid;
+    width: 100%;
+    line-height: 60px;
+    color: #ffffff;
+}
