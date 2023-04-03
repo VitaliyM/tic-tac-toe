@@ -1,10 +1,19 @@
 import React from 'react';
+import Square from './Square';
 import './board.css';
 
 const Board = () => {
     return (
-        <div>
-            
+        <div className='board'>
+            <Square />
+            <Square />
+            <Square />
+            <Square />
+            <Square />
+            <Square />
+            <Square />
+            <Square />
+            <Square />
         </div>
     );
 }

@@ -1,0 +1,7 @@
+.board {
+    width: 540px;
+    height: 540px;
+    background: springgreen;
+    display: flex;
+    flex-wrap: wrap;
+}
